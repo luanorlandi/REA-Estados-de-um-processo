@@ -1,0 +1,220 @@
+body{width: 98%;}
+
+#cabecalho{
+    width: 100%;
+    height: 140px;
+}
+
+#cabecalho ul{
+     position: absolute;
+     right: 50px;
+     top: 95px;
+     list-style: none;
+     text-transform: uppercase;
+}
+
+#cabecalho li{
+    color: white;
+    display: inline-block;
+}
+
+#banner {
+   max-width: 100%;
+   height: auto;
+   margin: 15px 0px 15px 15px;
+}
+
+#corpo-conteudo{
+  padding: 0%;
+  width:100%;
+  min-height: 500px;
+  border: 10px solid black;
+}
+
+#corpo-rodape{
+    padding: 5px;
+    text-align: center;
+    font-weight: bolder;
+    background-color:#DEDEDE;
+}
+
+.painelArredondado{
+  width: 90%;
+  margin-left:6%;
+}
+
+#painel-desenvolvedores{
+    padding: 20px 0px 10px 12%;
+}
+
+figure.fotoDesenvolvedores{
+  float:left;
+  margin: 0px 10px 0px 10px;
+  border: 2px solid gray;
+}
+
+figure.fotoDesenvolvedores figcaption{
+  text-align: center;
+  background-color:#DEDEDE;
+}
+
+
+#descricaoDesenvolvedores{
+  text-align: center;
+  font-weight: bolder;
+  padding: 20px 5px 10px 5px;
+  margin-top: 15%;
+  clear: both;
+}
+
+#btn-voltar{
+  background:url(../img/backward.png) no-repeat;
+  width: 60px;
+  height: 60px;
+  border:none;
+}
+
+#btn-avancar{
+  background:url(../img/forward.png) no-repeat;
+  width: 60px;
+  height: 60px;
+  border:none;
+}
+
+#btn-reiniciar{
+  background:url(../img/reset.png) no-repeat;
+  width: 60px;
+  height: 60px;
+  border:none;
+}
+
+
+.pessoa{
+  position:absolute;
+  width: 50px;
+  left: -200px;
+  top:100px;
+}
+
+.lanche{
+  position:absolute;
+  width: 50px;
+  left: -200px;
+  top: 65px;
+}
+
+
+#balao1{
+  position:absolute;
+  top:75px;
+  z-index: 14;
+  left: 35%;
+  width: 180px;
+  height: auto;
+  border: 1px solid  #0000CD;
+  border-radius: 10px;
+  background-color: #FFFAFA;
+  padding: 3px;
+  font-size: 0.8em;
+}
+
+
+#mesa-cadeira{
+  position:absolute;
+  width: 100px;
+  right: 25px;
+  top:100px;
+}
+
+#mesa{
+  position:absolute;
+  width: 100px;
+  height: auto;
+  left:38%;
+  top:365px;
+}
+
+#fila{
+  position: absolute;
+  width: 150px;
+  height: auto;
+  top:200px;
+  left: 30px;
+  z-index:13;
+}
+
+@media screen and (min-width: 600px) {
+    #mesa-cadeira {
+      width: 130px;
+    }
+    #mesa {
+      width: 120px;
+      top:355px;
+    }
+    #balao1{
+      width: 200px;
+      font-size: 1em;
+    }
+
+    #fila{
+      width: 150px;
+      left: 50px;
+    }
+
+}
+
+@media screen and (min-width: 700px) {
+  #mesa-cadeira {
+    width: 140px;
+  }
+  #mesa {
+    width: 125px;
+    top:355px;
+  }
+  #balao1{
+    width: 240px;
+  }
+
+  #fila{
+    width: 175px;
+    left: 8%;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  #mesa-cadeira {
+    width: 150px;
+  }
+  #mesa {
+    width: 135px;
+    top:345px;
+  }
+  #balao1{
+    width: 260px;
+  }
+
+  #fila{
+    width: 190px;
+  }
+}
+
+@media screen and (min-width: 930px) {
+  #mesa-cadeira {
+    width: 160px;
+  }
+  #mesa {
+    width: 145px;
+    top:335px;
+  }
+
+  #fila{
+    width: 210px;
+  }
+}
+
+@media screen and (min-width: 1100px) {
+
+    #fila{
+      width: 280px;
+    }
+}
