@@ -6,7 +6,7 @@ A ferramenta foi desenvolvida na disciplina de Sistemas Operacionais por alunos 
 
 A imagem abaixo leva a um vídeo mostrando o uso desse recurso.
 
-[![Video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
+[![Video](http://i1.ytimg.com/vi/GyFxMXhDsYY/sddefault.jpg)](https://www.youtube.com/watch?v=GyFxMXhDsYY)
 
 ##Como a ferramenta pode ser usada
 
