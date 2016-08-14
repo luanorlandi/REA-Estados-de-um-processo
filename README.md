@@ -4,7 +4,7 @@ This is a web tool for students and anyone interest to learn Operating Systems.
 
 Estados de um Processo, or Process State, show what is time-sharing, preemption, multiprogramming and, more importantly, process state.
 
-![Process State running](img\screenshot\use.gif)
+![Process State running](img/screenshot/use.gif)
 
 ## How to use
 
@@ -12,7 +12,7 @@ Go to this [page][rea] and you will able use the tool.
 
 If you have any difficult to understand or use the tool, see the video below (turn YouTube CC on to see english subtitle)
 
-[![Click to see the video](img\screenshot\video.png)](https://www.youtube.com/watch?v=GyFxMXhDsYY)
+[![Click to see the video](img/screenshot/video.png)](https://www.youtube.com/watch?v=GyFxMXhDsYY)
 
 ## Application forms
 
@@ -36,7 +36,11 @@ Responsive interface with [Bootstrap][bootstrap].
 
 Part of the art used from [Freepik][Freepik].
 
+## License
+
+[GPLv3][license]
+
 [rea]: <http://luanorlandi.github.io/REA-Estados-de-um-processo/>
 [bootstrap]: <http://getbootstrap.com/>
 [freepik]: <http://www.freepik.com/free-vector/casual-characters_774641.htm>
-
+[license]: <LICENSE>
