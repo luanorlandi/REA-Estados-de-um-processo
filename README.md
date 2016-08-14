@@ -10,7 +10,7 @@ Estados de um Processo, or Process State, show what is time-sharing, preemption,
 
 Go to this [page][rea] and you will able use the tool.
 
-If you have any difficult to understand or use the tool, see the video below (turn YouTube CC on to see english subtitle)
+If you have any difficulty to understand or use the tool, see the video below (turn YouTube CC on to see english subtitle)
 
 [![Click to see the video](img/screenshot/video.png)](https://www.youtube.com/watch?v=GyFxMXhDsYY)
 
