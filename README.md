@@ -1,27 +1,42 @@
 # Estados de um processo
 
-##Introdução
+This is a web tool for students and anyone interest to learn Operating Systems.
 
-A ferramenta foi desenvolvida na disciplina de Sistemas Operacionais por alunos do ICMC da USP de São Carlos. O objetivo da ferramenta é ensinar outros alunos o tema estados de um processo em sistemas operacionais.
+Estados de um Processo, or Process State, show what is time-sharing, preemption, multiprogramming and, more importantly, process state.
 
-A imagem abaixo leva a um vídeo mostrando o uso desse recurso.
+![Process State running](img\screenshot\use.gif)
 
-[![Video](http://i1.ytimg.com/vi/GyFxMXhDsYY/sddefault.jpg)](https://www.youtube.com/watch?v=GyFxMXhDsYY)
+## How to use
 
-##Como a ferramenta pode ser usada
+Go to this [page][rea] and you will able use the tool.
 
-####Professores
+If you have any difficult to understand or use the tool, see the video below (turn YouTube CC on to see english subtitle)
 
-Aos professores que ministram disciplinas de Sistemas Operacionais, quando abordarem o assunto de estados de um processo, pode utilizar em aula, ou apenas palestras, exibindo o uso da ferramenta aos alunos, mostrando de uma forma mais interessante e prática de como funciona os conceitos de estados de um processo, bem como multiprogramação, time-sharing e preempção.
+[![Click to see the video](img\screenshot\video.png)](https://www.youtube.com/watch?v=GyFxMXhDsYY)
 
-É possível também que os docentes apenas citem e recomendem aos seus alunos usarem o recurso para entender melhor a matéria (de mesmo tema do REA) discutida em suas aulas.
+## Application forms
 
-Os professores podem sugerir o recurso à outros docentes da área para também utilizarem a ferramenta ao introduzirem o conteúdo abordado pelo REA aos seus alunos. Assim, o recurso será divulgado a mais alunos.
+### Teachers
 
-###Alunos
+Instructors who teach disciplines of operating systems, when approaching the subject of process state, they can use it in class, or just lectures, displaying the use of the tool to students, showing in a more interesting and practical way of how process states concept works as well as multiprogramming, time-sharing and preemption. 
 
-Podem apenas assistir seus professores usando a ferramenta, ou se quiserem podem também acessar o REA por meio desta página. Dessa forma, podem usar o REA pelo seu próprio dispositivo em casa.
+Instructors may suggest this tool other people in the same area to also use it while introducing the content covered by the OER to their students. Thus, the tool would be released to more students. 
 
-Ao terem dificuldades em entender a matéria, o uso do recurso deve facilitar seu entendimento nos assuntos abordados pelo REA.
+### Students
 
-Se houver complicações no uso, juntamente com a ferramenta há um tutorial com e vídeo explicando aos alunos e professores como usarem de forma correta a ferramenta.
+They can just watch their teachers using the tool, or if they want they can also access the OER through a link. This way they can use the OER by their own devices at home.
+
+If they have any trouble in understanding the theme, the use of the resource should facilitate their knowledge in issues addressed by the OER. 
+
+## Credits
+
+Developed in 2015 by Henrique Pasquini, Luan Orlandi, Roni Castro and Raul Zaninetti, all students of Computer Science from the University of São Paulo - ICMC, guided by Paulo Sergio Lopes de Souza in the course of Operating Systems.
+
+Responsive interface with [Bootstrap][bootstrap].
+
+Part of the art used from [Freepik][Freepik].
+
+[rea]: <http://luanorlandi.github.io/REA-Estados-de-um-processo/>
+[bootstrap]: <http://getbootstrap.com/>
+[freepik]: <http://www.freepik.com/free-vector/casual-characters_774641.htm>
+
